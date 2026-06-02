@@ -20,7 +20,7 @@ We do not sell user data. Data is only used to provide the services of this appl
 
 Data Deletion
 Users may request deletion of their data by contacting us at:
-your-email@example.com
+subash@theextrospace.com
 
 Contact
 subash@theextrospace.com
